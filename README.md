@@ -1,7 +1,7 @@
 # Few-shot-learning
 
 ## Project Overview
-This repository contains the codebase for a research project that focuses on autonomous detection of bearing failures in nuclear power plants using machine learning. The project leverages Convolutional Neural Networks (CNN) to analyze and diagnose the condition of bearings from processed data.
+This repository contains the codebase for a research project that focuses on autonomous detection of bearing failures in nuclear power plants using Deep learning with few shot learning algrithm. The project leverages Convolutional Neural Networks (CNN) to analyze and diagnose the condition of bearings from processed data.
 
 ## Files Description
 - `data.py`: Script to import pre-processed data from MATLAB.
